@@ -1,0 +1,2 @@
+cat n1.txt
+cd ..
